@@ -7,3 +7,4 @@ def fun():
     'lista dluga'
     pass
 
+asdasd
