@@ -1,4 +1,5 @@
 def fun():
+    ''' dasdasdasd '''
 
     a = 0
     b = 0
