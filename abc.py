@@ -3,5 +3,7 @@ def fun():
     '''ffff'''
     f = 'asd'
     k='juhu'
+    list = []
+    'lista dluga'
     pass
 
